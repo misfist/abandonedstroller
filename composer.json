@@ -52,7 +52,6 @@
     "wpackagist-plugin/better-rest-api-featured-images": "^1.1.1",
     "wpackagist-plugin/custom-contact-forms": "7.8.3",
     "wpackagist-plugin/wp-piwik": "1.0.12",
-    "wpackagist-plugin/wp-super-cache": ">=1.4.7",
     "misfist/advanced-custom-fields": "dev-master",
     "misfist/advanced-custom-fields-repeater": "dev-master"
   },
