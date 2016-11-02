@@ -64,6 +64,9 @@
     "wpackagist-plugin/theme-check": "20160523.1",
     "wpackagist-plugin/user-switching": ">=1.0.8",
     "wpackagist-plugin/rest-api-console": ">=2.0.1",
-    "wpackagist-plugin/wordpress-importer": "0.6.3"
+    "wpackagist-plugin/wordpress-importer": "0.6.3",
+    "wpackagist-theme/gridbox": "1.0.7",
+    "wpackagist-theme/gridsby": "1.2.8",
+    "wpackagist-theme/resi": "1.2.4"
   }
 }
