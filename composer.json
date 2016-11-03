@@ -50,7 +50,7 @@
     "wpackagist-plugin/rest-api": "^2.0-beta15",
     "wpackagist-plugin/rest-api-enabler": "^1.1.0",
     "wpackagist-plugin/better-rest-api-featured-images": "^1.1.1",
-    "wpackagist-plugin/custom-contact-forms": "7.8.3",
+    "wpackagist-plugin/simple-lightbox": "2.5.3",
     "wpackagist-plugin/wp-piwik": "1.0.12",
     "misfist/advanced-custom-fields": "dev-master",
     "misfist/advanced-custom-fields-repeater": "dev-master"
