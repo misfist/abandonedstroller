@@ -54,7 +54,8 @@
     "wpackagist-plugin/wp-piwik": "^1.0.12",
     "misfist/advanced-custom-fields": "dev-master",
     "misfist/advanced-custom-fields-repeater": "dev-master",
-    "wpackagist-theme/gridbox": "^1.0.7"
+    "wpackagist-theme/gridbox": "^1.0.7",
+    "wpackagist-plugin/cloudflare": "3.0.6"
   },
   "require-dev": {
     "wpackagist-plugin/developer": ">=1.2.5",
